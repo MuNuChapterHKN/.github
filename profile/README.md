@@ -14,7 +14,3 @@ Our activities range from educational tutoring to the organization of events suc
 
 ## Some numbers
 IEEE-HKN is a vibrant active organization with 243 chapters worldwide, over 4,000 current student members, more than 8,000 active IEEE members, and nearly 32,000 alumni spanning the ten Regions of the IEEE. IEEE-HKN remains the only engineering society with international chapters, and it has inducted over 200,000 members since its inception.
-
-![HKN](./img/HKN.png)
-
-
